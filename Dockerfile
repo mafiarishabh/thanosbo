@@ -1,4 +1,4 @@
-FROM thanosuser/ThanosBot:latest
+FROM mafiarishabh/thanosbo:latest
 
 #clonning repo 
 RUN git clone https://github.com/thanosuser/Thanos-UserBot.git /root/userbot
